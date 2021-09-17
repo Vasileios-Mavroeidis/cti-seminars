@@ -1,2 +1,2 @@
-### SUMARRY
+### Summary
 This presentation covered the intelligence architecture mind map followed by a more topical introduction to intelligence requirements management(IRM). The presenter shared his expertise and showcased using experiences from his job as a Seniors Threat Intelligence Analyst at the Nordic Financial Cert why IRM is important and what you need to think about in doing IRM successfully.
